@@ -1,0 +1,40 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "The current language"
+    },
+
+    "sales": "Sales",
+    "@sales":{
+        "description": "Sales"
+    },
+
+    "type": "type",
+    "@type":{
+            "description": "type"
+        },
+
+    "price": "price",
+     "@price":{
+            "description": "price"
+        },
+
+     "with2": "with",
+     "@with2":{
+            "description": "with"
+             },
+
+     "selfie": "Take a selfie",
+     "@selfie":{
+       "description": "Take a selfie"
+                  },
+     "name": "name",
+          "@name":{
+            "description": "name"
+                       },
+     "add": "Add",
+          "@add":{
+            "description": "Add"
+                       }
+
+}
